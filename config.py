@@ -4,4 +4,4 @@ class Config:
         'host': 'localhost',
         'port': 27017
     }
-    SECRET_KEY = 'your_secret_key'
+    SECRET_KEY = '121256'
